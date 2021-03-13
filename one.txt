@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 THis is updated 
+=======
+Hi!
+Sir
+>>>>>>> 1e7e30e4a4ab23fb3896a57ce676b110dc61cdfe
+What is inside the file
